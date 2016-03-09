@@ -1,0 +1,9 @@
+id distribution
+st01 's id : 1
+st02 's id : 3
+st03 's id : 2
+--------------------------------------------------
+final result
+st01   id: 1   level: 14   exp: 116   score: 36   hp: 15   maxhp: 62   str: 1   spe: 17
+st02   id: 3   level: 16   exp: 139   score: 2   hp: 9   maxhp: 70   str: 1   spe: 19
+st03   id: 2   level: 12   exp: 78   score: 14   hp: 8   maxhp: 54   str: 1   spe: 15
